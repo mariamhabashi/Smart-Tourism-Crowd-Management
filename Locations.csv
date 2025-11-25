@@ -1,0 +1,61 @@
+id,name,city,type,weight,latitude,longitude
+CAI_01,Pyramids of Giza,Giza,Historical,1,29.9792345,31.1342019
+CAI_02,Saqqara Necropolis,Giza,Historical,0.9,29.871264,31.216394
+CAI_03,Grand Egyptian Museum (GEM),Giza,Museum,1,29.9946467,31.119618
+CAI_04,Egyptian Museum (Tahrir),Cairo,Museum,0.9,30.0478469,31.2336533
+CAI_05,NMEC (Civilization Museum),Cairo,Museum,0.9,30.008104,31.248231
+CAI_06,Salah El-Din Citadel,Cairo,Historical,0.8,30.0298603,31.2611055
+CAI_07,Khan El-Khalili,Cairo,Market,0.95,30.047716,31.262332
+CAI_08,Al-Muizz Street,Cairo,Historical,0.85,30.049444,31.261944
+CAI_09,Cairo Tower,Cairo,Leisure,0.7,30.045915,31.22429
+CAI_10,Al-Azhar Park,Cairo,Leisure,0.75,30.041088,31.265215
+CAI_11,Baron Empain Palace,Cairo,Historical,0.65,30.086708,31.330312
+CAI_12,Coptic Museum,Cairo,Museum,0.5,30.005886,31.230191
+CAI_13,Hanging Church,Cairo,Religious,0.6,30.005391,31.230113
+CAI_14,Mosque of Ibn Tulun,Cairo,Religious,0.4,30.028717,31.249487
+CAI_15,Manial Palace,Cairo,Historical,0.45,30.026778,31.229167
+CAI_16,Abdeen Palace Museum,Cairo,Museum,0.4,30.041944,31.247778
+CAI_17,Nilometer,Cairo,Historical,0.2,30.006806,31.224583
+LUX_01,Karnak Temple,Luxor,Historical,0.95,25.718833,32.657278
+LUX_02,Luxor Temple,Luxor,Historical,0.9,25.7,32.639722
+LUX_03,Valley of the Kings,Luxor,Historical,0.95,25.740167,32.601417
+LUX_04,Hatshepsut Temple,Luxor,Historical,0.85,25.738194,32.60375
+LUX_05,Valley of the Queens,Luxor,Historical,0.7,25.728333,32.593333
+LUX_06,Colossi of Memnon,Luxor,Historical,0.6,25.720444,32.610361
+LUX_07,Luxor Museum,Luxor,Museum,0.5,25.707778,32.645556
+LUX_08,Mummification Museum,Luxor,Museum,0.3,25.705833,32.6425
+LUX_09,Medinet Habu,Luxor,Historical,0.4,25.719667,32.600833
+LUX_10,Ramesseum,Luxor,Historical,0.35,25.7275,32.610556
+ASW_01,Abu Simbel Temples,Aswan,Historical,0.9,22.337222,31.625833
+ASW_02,Philae Temple,Aswan,Historical,0.85,24.025,32.884167
+ASW_03,Nubian Village,Aswan,Cultural,0.8,24.066667,32.883333
+ASW_04,Aswan High Dam,Aswan,Engineering,0.6,23.970278,32.876111
+ASW_05,Nubian Museum,Aswan,Museum,0.5,24.079167,32.888889
+ASW_06,Unfinished Obelisk,Aswan,Historical,0.45,24.077222,32.894722
+ASW_07,Botanical Garden,Aswan,Nature,0.5,24.092222,32.8875
+ASW_08,Tombs of the Nobles,Aswan,Historical,0.3,24.1,32.883333
+ASW_09,Kalabsha Temple,Aswan,Historical,0.25,23.961111,32.866667
+ALX_01,Bibliotheca Alexandrina,Alexandria,Cultural,0.85,31.20887,29.9092
+ALX_02,Qaitbay Citadel,Alexandria,Historical,0.9,31.214028,29.885139
+ALX_03,Catacombs of Kom El Shoqafa,Alexandria,Historical,0.6,31.176944,29.893333
+ALX_04,Montaza Palace Gardens,Alexandria,Leisure,0.75,31.288333,30.016667
+ALX_05,Pompey's Pillar,Alexandria,Historical,0.5,31.1825,29.896389
+ALX_06,Royal Jewelry Museum,Alexandria,Museum,0.4,31.240556,29.963056
+ALX_07,Stanley Bridge,Alexandria,Leisure,0.8,31.233889,29.948611
+RED_01,Ras Mohammed,Sharm El Sheikh,Nature,0.85,27.730556,34.246667
+RED_02,SOHO Square,Sharm El Sheikh,Leisure,0.7,27.9625,34.394444
+RED_03,Saint Catherine Monastery,Saint Catherine,Religious,0.6,28.555833,33.976111
+RED_04,Mount Sinai,Saint Catherine,Nature,0.55,28.539722,33.975
+RED_05,Blue Hole,Dahab,Nature,0.8,28.572222,34.5375
+RED_06,Giftun Island,Hurghada,Nature,0.85,27.240278,33.945278
+RED_07,Hurghada Marina,Hurghada,Leisure,0.75,27.224167,33.840278
+RED_08,El Gouna Downtown,El Gouna,Leisure,0.7,27.394167,33.678056
+RED_09,Castle Zaman,Taba,Leisure,0.3,29.35,34.783333
+RED_10,Colored Canyon,Nuweiba,Nature,0.4,29.15,34.566667
+OAS_01,Siwa Oasis,Siwa,Nature,0.5,29.203333,25.519444
+OAS_02,Cleopatra's Spring,Siwa,Nature,0.45,29.2025,25.525
+OAS_03,White Desert,Farafra,Nature,0.3,27.066667,28.166667
+OAS_04,Tuna El-Gebel,Minya,Historical,0.2,27.766667,30.733333
+OAS_05,Beni Hasan Tombs,Minya,Historical,0.25,27.933333,30.866667
+OAS_06,Wadi El-Hitan,Fayoum,Nature,0.4,29.266667,30.016667
+OAS_07,Tunis Village,Fayoum,Cultural,0.5,29.366667,30.566667
